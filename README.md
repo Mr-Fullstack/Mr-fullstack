@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
+<a href="https://github.com/Mr-fullstack">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-fullstack&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-fullstack&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+  
 Have worked in:
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" />
@@ -46,8 +52,4 @@ Operation System familiar with:
 <p>
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=flat" />
 </p>
-<div>
-<a href="https://github.com/Mr-fullstack">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-fullstack&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-fullstack&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+
