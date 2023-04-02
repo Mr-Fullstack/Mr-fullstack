@@ -29,7 +29,6 @@ Have worked in:
 <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/MYSQL-4479A1?logo=MYSQL&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/Unity-F9F9F9?logo=Unity&logoColor=black&style=flat" />
 <img src="https://img.shields.io/badge/CSharp-239120?logo=C-Sharp&logoColor=white&style=flat" />
 </p>
 
@@ -44,7 +43,9 @@ Version Control and Development tools used:
 </p>
 
 Operation System familiar with:
-
+<p>
+<img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=flat" />
+</p>
 <div>
 <a href="https://github.com/Mr-fullstack">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-fullstack&layout=compact&langs_count=7&theme=dark"/>
