@@ -3,7 +3,6 @@
 <!--
 **Mr-Fullstack/Mr-fullstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Creator in youtube channel [Creator in youtube channe](https://www.youtube.com/@codigodelaboratorio5681)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Systems Analyst | Games and Web Developer and
+Content creator on youtube channel [Código de Laboratório](https://www.youtube.com/@codigodelaboratorio5681)
 <div>
 <a href="https://github.com/Mr-fullstack">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-fullstack&layout=compact&langs_count=7&theme=dark"/>
