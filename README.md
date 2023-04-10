@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Systems Analyst | Games and Web Developer and
+Systems Analyst | Games and Web Developer |
 Content creator on youtube channel [Código de Laboratório](https://www.youtube.com/@codigodelaboratorio5681)
 <div>
 <a href="https://github.com/Mr-fullstack">
