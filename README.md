@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 Systems Analyst | Games and Web Developer |
-Content creator on youtube channel [Código de Laboratório](https://www.youtube.com/@codigodelaboratorio5681)
+Content creator on youtube channel [Código de Laboratório](https://www.youtube.com/@codigodelaboratorio)
+and twitch tv [Código de Laboratório](https://www.twitch.tv/codigodelaboratorio)
 <div>
 <a href="https://github.com/Mr-fullstack">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-fullstack&layout=compact&langs_count=7&theme=dark"/>
