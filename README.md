@@ -37,8 +37,10 @@
 <img src="https://img.shields.io/badge/CSharp-239120?logo=C-Sharp&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Wordpress-21759B?logo=Wordpress&logoColor=white&style=flat" /> 
 <img src="https://img.shields.io/badge/Storybook-FF4785?logo=Storybook&logoColor=white&style=flat" /> 
-
-
+<img src="https://img.shields.io/badge/vite-%23646CFF?logo=vite&logoColor=white&style=flat" /> 
+<img src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=flat" /> 
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat" /> 
+  
 </p>
 
 ### Atuais ferramentas que estou utilizando:
