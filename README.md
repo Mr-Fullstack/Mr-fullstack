@@ -35,7 +35,10 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/MYSQL-4479A1?logo=MYSQL&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/CSharp-239120?logo=C-Sharp&logoColor=white&style=flat" />
- <img src="https://img.shields.io/badge/Wordpress-21759B?logo=Wordpress&logoColor=white&style=flat" /> 
+<img src="https://img.shields.io/badge/Wordpress-21759B?logo=Wordpress&logoColor=white&style=flat" /> 
+<img src="https://img.shields.io/badge/Storybook-FF4785?logo=Storybook&logoColor=white&style=flat" /> 
+
+
 </p>
 
 ### Atuais ferramentas que estou utilizando:
