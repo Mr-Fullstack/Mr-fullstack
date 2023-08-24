@@ -16,8 +16,8 @@
 ### Detalhes sobre o meus códigos:
 <div>
 <a href="https://github.com/Mr-fullstack">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-fullstack&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-fullstack&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-faao-cq7jifk37-mr-fullstack.vercel.app/api/top-langs/?username=Mr-fullstack&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats-faao-cq7jifk37-mr-fullstack.vercel.app/api?username=Mr-fullstack&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 ### Tecnologias que tenho habilidades:
