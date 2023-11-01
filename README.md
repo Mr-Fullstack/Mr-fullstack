@@ -19,7 +19,8 @@
 <img height="180em" src="https://github-readme-stats-faao-cq7jifk37-mr-fullstack.vercel.app/api/top-langs/?username=Mr-fullstack&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 <img height="180em" src="https://github-readme-stats-faao-cq7jifk37-mr-fullstack.vercel.app/api?username=Mr-fullstack&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
-  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-fullstack&theme=github-compact&bg_color=000&point=FFF&area=true&line=7fff00&area_color=7fff008a)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 ### Tecnologias que tenho habilidades:
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" />
